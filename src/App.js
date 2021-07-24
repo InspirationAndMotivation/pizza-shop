@@ -1,4 +1,5 @@
 import logo from './resources/img/Logo.svg';
+import empty_cart_icon from './resources/img/icons/empty-cart.svg';
 import all_icon from './resources/img/icons/all.png';
 import meat_icon from './resources/img/icons/meat.png';
 import vege_icon from './resources/img/icons/vege.png';
