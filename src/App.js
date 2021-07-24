@@ -7,6 +7,10 @@ import mild_icon from './resources/img/icons/mild.png';
 import spicy_icon from './resources/img/icons/spicy.png';
 import './scss/app.scss';
 
+function Button() {
+  return <button>Add to cart</button>
+}
+
 function App() {
   return (
     <div className ="wrapper">
